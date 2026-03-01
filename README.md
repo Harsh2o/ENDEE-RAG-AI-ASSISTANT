@@ -80,8 +80,7 @@ AI:
 
 ---
 ## 🎬 Demo Video
-
-![Watch Demo Video] https://github.com/user-attachments/assets/f82fce2a-478f-4eaa-8a5c-36a266aefb46
+https://github.com/user-attachments/assets/f82fce2a-478f-4eaa-8a5c-36a266aefb46
 
 
 
