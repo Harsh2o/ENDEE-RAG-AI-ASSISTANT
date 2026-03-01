@@ -88,3 +88,7 @@ AI:
 git clone https://github.com/YOUR_USERNAME/ENDEE-RAG-AI-ASSISTANT.git
 cd ENDEE-RAG-AI-ASSISTANT
 
+## 📷 UI Preview
+
+![UI Screenshot](docs/ui.png)
+
