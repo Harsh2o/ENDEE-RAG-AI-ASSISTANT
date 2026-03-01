@@ -81,7 +81,7 @@ AI:
 ---
 ## 📷 UI Preview
 
-![UI Screenshot](docs/ui.png)
+![UI Screenshot](doc/ui.png)
 
 ## ⚙️ Setup Instructions
 
