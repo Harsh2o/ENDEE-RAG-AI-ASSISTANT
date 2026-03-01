@@ -83,13 +83,18 @@ AI:
 
 ![UI Screenshot](doc/ui.png)
 
+
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ENDEE-RAG-AI-ASSISTANT.git
+git clone https://github.com/Harsh2o/ENDEE-RAG-AI-ASSISTANT.git
 cd ENDEE-RAG-AI-ASSISTANT
+
+
+
 
 
 
