@@ -81,7 +81,7 @@ AI:
 ---
 ## 🎬 Demo Video
 
-![Watch Demo Video]([doc/ui.png](https://drive.google.com/file/d/1vtzZUDkG47fw9prMk9946hXgUTodbiHd/view?usp=sharing))
+![Watch Demo Video](https://drive.google.com/file/d/1vtzZUDkG47fw9prMk9946hXgUTodbiHd/view?usp=sharing)
 
 
 
