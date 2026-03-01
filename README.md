@@ -79,9 +79,9 @@ AI:
 - Endee vector database
 
 ---
-## 📷 UI Preview
+## 🎬 Demo Video
 
-![UI Screenshot](doc/ui.png)
+![Watch Demo Video]([doc/ui.png](https://drive.google.com/file/d/1vtzZUDkG47fw9prMk9946hXgUTodbiHd/view?usp=sharing))
 
 
 
