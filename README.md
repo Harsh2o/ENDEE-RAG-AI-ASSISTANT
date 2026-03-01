@@ -86,8 +86,6 @@ https://github.com/user-attachments/assets/f82fce2a-478f-4eaa-8a5c-36a266aefb46
 
 ## ⚙️ Setup Instructions
 
-
-## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 * [Node.js](https://nodejs.org/) (v16 or higher)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Must be actively running)
