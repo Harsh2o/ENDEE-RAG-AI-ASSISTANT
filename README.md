@@ -79,6 +79,9 @@ AI:
 - Endee vector database
 
 ---
+## 📷 UI Preview
+
+![UI Screenshot](docs/ui.png)
 
 ## ⚙️ Setup Instructions
 
@@ -88,7 +91,5 @@ AI:
 git clone https://github.com/YOUR_USERNAME/ENDEE-RAG-AI-ASSISTANT.git
 cd ENDEE-RAG-AI-ASSISTANT
 
-## 📷 UI Preview
 
-![UI Screenshot](docs/ui.png)
 
